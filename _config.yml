@@ -30,7 +30,7 @@ url: "https://zulianis.eu" # the base hostname & protocol for your site, e.g. ht
 avatar: "/assets/icon.png"
 
 github:
-  username: user1 # change to your GitHub username
+  username: szuliani # change to your GitHub username
 
 twitter:
   username: user1 # change to your Twitter username
@@ -43,7 +43,7 @@ social:
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Stefano Zuliani
   email: web@zulianis.eu
-  fediverse_handle: "@sz@livellosegreto.it" # change to your fediverse handle or leave empty
+  fediverse_handle: "@zs@livellosegreto.it" # change to your fediverse handle or leave empty
   links:
     # The first element serves as the copyright owner's link
     - https://zulianis.eu
@@ -52,6 +52,7 @@ social:
     # Uncomment below to add more social links
     - https://www.facebook.com/stefanozuliani.digital
     - https://www.linkedin.com/in/s-zuliani/
+    - https://livellosegreto.it/@zs
 
 
 github_username:  szuliani

@@ -17,4 +17,4 @@ Un elenco di fatti su di me:
 - sono appassionato di `coding` e di software autonomy, proud GNU/Linux user
 - mi piacciono i funghi
 
-
+Sono [nel fediverso](https://livellosegreto.it/@zs)
