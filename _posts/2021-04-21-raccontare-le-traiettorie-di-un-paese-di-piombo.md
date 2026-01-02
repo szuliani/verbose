@@ -5,6 +5,7 @@ description: "Quattro romanzi e un film sulla violenza politica nell’Italia de
 categories: essay
 tags: libri
 image: "assets/imgs/Piazza-Fontana.jpg"
+pin: true
 ---
 
 *Questo articolo è uscito in prima versione nel 2019 sul blog Typoes, poi nel 2021 [in versione definitiva su giardino punk](https://www.giardino-punk.it/narrare-le-traiettorie-di-un-paese-di-piombo/). Lo considero parte di una riflessione che parte dal guardare da vicino questi testi, e prosegue con l’abbracciare [una teoria del romanzo politico e lo strumento narrativo del punto cieco di Javier Cercas](https://www.zulianis.eu/romanzo-politico-e-teoria-del-punto-cieco/).*

@@ -4,6 +4,7 @@ tags: sociologia
 title: Cos'è la modernità
 description: Tre punti di vista analitici
 image: "assets/imgs/Giddens1-1024x777.png"
+pin: true
 ---
 
 ### Anthony Giddens
