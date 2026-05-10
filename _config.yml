@@ -21,9 +21,9 @@
 title: Verbose
 email: web@zulianis.eu
 description: >- # this means to ignore newlines until "baseurl:"
-  Il blog di Stefano Zuliani
+  Lo sblog di Stefano Zuliani
 tagline:
-  Il blog di Stefano Zuliani
+  Lo sblog di Stefano Zuliani
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://zulianis.eu" # the base hostname & protocol for your site, e.g. http://example.com
 

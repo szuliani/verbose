@@ -6,9 +6,9 @@ title: About
 permalink: /about/
 ---
 
-Ciao, sono [Stefano Zuliani](https://zulianis.eu), Verbose è il mio blog, cioè una piccola parte già matura del mio [digital garden](https://maggieappleton.com/nontechnical-gardening).
+Verbose è il mio slow-web-log, qui trovi alcune parti già mature del mio [digital garden](https://maggieappleton.com/nontechnical-gardening).
 
-Un elenco di fatti su di me:
+Io sono [Stefano Zuliani](https://zulianis.eu), qualche fatto su di me:
 
 - vivo a Torino
 - qualsiasi pronome per me è appropriato

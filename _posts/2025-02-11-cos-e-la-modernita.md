@@ -3,8 +3,7 @@ date: 2025-02-11
 tags: sociologia
 title: Cos'è la modernità
 description: Tre punti di vista analitici
-image: "assets/imgs/Giddens1-1024x777.png"
-pin: true
+categories: essay
 ---
 
 ### Anthony Giddens
@@ -27,7 +26,7 @@ Il seguito dell’articolo contiene l’esposizione da parte di Giddens di sei t
 
 Claus Offe propone una critica strutturale della nostra concezione di modernità, dimostrando come la moltiplicazione delle possibilità di accesso (in potenza) per ciascunə non corrisponde a un’aumento reale delle possibilità di accesso al potere di determinare queste possibilità. Detto altrimenti, tanto la scelta (politica, culturale, di consumo…) si allarga, tanto meno potere il singolo soggetto ha su questa scelta.
 
-Ironicamente, questo è proprio quello che emerge dal discorso sulle tecnologie (materiali e sociali) di un autore decisamente libertario come [[Tecnologie per una nuova convivialità|Ivan Illich]].
+Ironicamente, questo è proprio quello che emerge dal discorso sulle tecnologie (materiali e sociali) di un autore decisamente libertario come Ivan Illich.
 
 Ma c’è ancora un altro punto strutturale che mi interessa nel testo di Offe. Rispetto alla società in generale:
 
