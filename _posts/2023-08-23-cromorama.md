@@ -5,7 +5,7 @@ category: essay
 description: "Dal libro di Riccardo Falcinelli, una riflessione su colore, cultura e design"
 image: "assets/imgs/cromorama.png"
 tag: libri
-pin: true
+pin: false
 ---
 
 Chi ha avuto a che fare da vicino, per dirne una, col processo di razzalizzazione delle persone “non bianche” nelle società occidentali sa benissimo di cosa parla Falcinelli quando dice che **il colore non è una cosa in sé, ma una costruzione, il frutto di una relazione tra ciò che è guardato e chi lo guarda**, questo occhio vivente e discernente, caricato di tutta la storia e la cultura che si porta sulle spalle.
