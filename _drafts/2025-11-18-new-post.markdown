@@ -1,6 +1,0 @@
----
-title: Primo (vero) post
-description: Qui inizia il viaggio di Verbose
----
-
-Ciao questo è un contenuto. Serve a tienere a mente il giorno in cui ho finalmente messo online un blog completamente statico fatto in Jekyll che è un po' in raccoglitore delle mie fantasie strane, quelle che sono troppo interessanti per essere lasciate nella versione offline del mio giardino digitale.

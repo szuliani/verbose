@@ -62,11 +62,13 @@ timezone: Europe/Rome
 
 # Build settings
 theme: jekyll-theme-chirpy
-paginate: 10
+paginate: 15
 toc: true
 
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
