@@ -24,6 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Lo sblog di Stefano Zuliani
 tagline:
   Lo sblog di Stefano Zuliani
+author: Stefano Zuliani
+locale: it_IT
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://verbose-six.vercel.app" # the base hostname & protocol for your site, e.g. http://example.com
 
