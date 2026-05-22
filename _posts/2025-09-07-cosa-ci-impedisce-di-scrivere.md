@@ -50,7 +50,7 @@ Scrivere in questo mondo è un po' come pregare: è importante farlo, per chi lo
 
 Ecco qualche pagina che ho scritto e che mi ha fatto veramente piacere condividere:
 
-🚨 [Disordine, Forze del](/post/disordine-forze-del/): un racconto sui carabinieri uscito nella zine Stortə Vol. #1
+🚨 [Disordine, Forze del](/posts/disordine-forze-del/): un racconto sui carabinieri uscito nella zine Stortə Vol. #1
 
 🏳️‍⚧️ [Prove genitali](https://www.giardino-punk.it/zine/): tre racconti sui corpi trans* raccolti in una zine pubblicata da giardino punk
 
