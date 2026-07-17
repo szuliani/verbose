@@ -12,13 +12,13 @@ permalink: /storie/
 
 #### 📄 [Il lavoro più longevo dei mondi (Scartafaccio, 2024)](https://scartafaccio.net/il-lavoro-piu-longevo-dei-mondi-di-stefano-zuliani/)
 
-#### 📄 [Prove genitali (giardino punk, 2024)](https://www.giardino-punk.it/zine/)
+#### 📄 [Prove genitali (giardino punk, 2024)](https://www.zulianis.eu/prodotto/prove-genitali/)
 
 #### 📄 [Il contesto (giardino punk, 2022)](https://www.giardino-punk.it/il-contesto/)
 
 #### 📄 Le luci della città (Tropismi, 2020) / [Backup](/posts/le-luci-della-citta/)
 
-#### 📕 [Il consulente (autopubblicato, 2019)](https://www.lulu.com/shop/stefano-zuliani/il-consulente/ebook/product-rmekmjd.html?page=1&epik=dj0yJnU9bTBBRjJRLU1mNWY0SkhPSWxmNC1BaDRJT29QUVBiNXMmcD0wJm49LWZ1NHRMMW05aGh5Qi1sYnlUVTE5USZ0PUFBQUFBR2FpSDhN&pageSize=4)
+#### 📕 [Il consulente (autopubblicato, 2019)](https://www.zulianis.eu/prodotto/il-consulente/)
 
 #### 📘 [Blues di Orlando (autopubblicato, 2017)](https://www.lulu.com/shop/stefano-zuliani/blues-di-orlando/ebook/product-579rgwe.html?page=1&pageSize=4)
 

@@ -12,7 +12,6 @@ Ciao, per questioni di spazio regalo i seguenti libri:
 - Tlotlo Tsamaase, *Totem nelle nostre ossa*
 - *The game unplugged*
 - Don DeLillo, *Nelle rovine del futuro*
-- Sarah Jaffe, *Il lavoro non ti ama*
 - Grace Fainelli, *Decolonizzare lo sguardo*
 - Aldo Busi, *Seminario sulla gioventù*
 - Ilaria Gaspari, *Lezioni di felicità*
