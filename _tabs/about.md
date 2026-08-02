@@ -20,4 +20,4 @@ Alcuni fatti su di me:
 
 Chiacchiero volentieri [nel fediverso](https://livellosegreto.it/@zs)
 
-C'è addirittura un social dove [pubblico le foto](https://pixelfed.uno/verbose)
+C'è addirittura un social dove [pubblico le foto](https://pixelfed.uno/mycena)
