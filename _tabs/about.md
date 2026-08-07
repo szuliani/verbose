@@ -15,7 +15,7 @@ Alcuni fatti su di me:
 - studio sociologia, sto nel mezzo di una tesi di Actor-Network Theory sulle comunità energetiche rinnovabili
 - mi piace veramente tanto parlare di politica
 - per qualche anno ho organizzato con la comunità trans*/queer torinese
-- invento [storie](/storie/), soprattutto solarpunk
+- invento storie, soprattutto [solarpunk](/tags/solarpunk/)
 - sono appassionato di `coding`, sulla strada verso una discreta software autonomy
 
 Chiacchiero volentieri [nel fediverso](https://livellosegreto.it/@zs)

@@ -1,11 +1,25 @@
 ---
 icon: fa fa-link
 order: 5
-title: Essay
-permalink: /essay/
+title: Testi
+permalink: /pubblicati/
 ---
 
-## solarpunk e narrazione
+## Racconti
+
+- 📄 [Santa Lucia + La Metamorfosi](https://scartafaccio.net/weird-x-mas-2025-2/) (con Ema, in Weird X-Mas di Scartafaccio, 2025)
+- 📄 [Disordine, Forze del](https://www.instagram.com/unafanzinestorta/) (Stort Zine vol #1, 2025) / [Open Access](/posts/disordine-forze-del/)
+- 📒 [Arcipelago dei limoni](https://delos.digital/9788825432282/arcipelago-dei-limoni) (Delos Digital, 2025)
+- 📄 [Il lavoro più longevo dei mondi](https://scartafaccio.net/il-lavoro-piu-longevo-dei-mondi-di-stefano-zuliani/) (Scartafaccio, 2024)
+- 📄 [Prove genitali](https://www.zulianis.eu/prodotto/prove-genitali/) (giardino punk, 2024)
+- 📄 [Il contesto](https://www.giardino-punk.it/il-contesto/) (giardino punk, 2022)
+- 📄 Le luci della città (Tropismi, 2020) / [Backup](/posts/le-luci-della-citta/)
+- 📕 [Il consulente](https://www.zulianis.eu/prodotto/il-consulente/) (autopubblicato, 2019)
+- 📘 [Blues di Orlando]() (autopubblicato, 2017)
+
+## Essay
+
+### solarpunk e narrazione
 
 - [Tigre contro tigre. Recensione del racconto di Lorenzo Davia](https://solarpunk.it/lorenzo-davia-tigre-contro-tigre-recensione-di-stefano-zuliani/2025/) (Solarpunk Italia, 2025)
 - [Eziologia politica del romanzo e teoria del punto cieco](/posts/romanzo-politico-e-punto-cieco/) (2024)
@@ -16,7 +30,7 @@ permalink: /essay/
 - [Come la pandemia ha cambiato il nostro modo di immaginare il futuro](https://www.giardino-punk.it/nota-sulla-fantascienza-come-la-pandemia-ha-cambiato-il-nostro-modo-di-immaginare-il-futuro/) (Typoes, 2021)
 - [Raccontare le traiettorie di un paese di piombo. Quattro romanzi e un film sulla violenza politica nell’Italia degli anni Settanta](https://verbose-six.vercel.app/posts/raccontare-le-traiettorie-di-un-paese-di-piombo/) (Typoes, 2021)
 
-## teoria politica e teorie queer
+### teoria politica e teorie queer
 
 - [Peacock flower, corpi femminili e Nothingness. Strumenti di teoria sociale per un ecofemminismo dell’assenza](https://www.giardino-punk.it/peacock-flower-corpi-femminili-e-nothingness/) (giardino punk, 2025)
 - [Nota a margine a "Against Nature" di Lorraine Daston](https://www.giardino-punk.it/contro-natura-lorraine-daston/) (giardino punk, 2025)
@@ -38,7 +52,7 @@ permalink: /essay/
 - [Nota a margine di "Il capitale è morto" di McKenzie Wark](https://www.giardino-punk.it/il-capitale-e-morto-mckenzie-wark/) (giardino punk, 2021)
 - [Freedom of self-defining — explained to Italian trans-exclusive feminists](https://giardino-punk.medium.com/freedom-of-self-defining-explained-to-italian-trans-exclusive-feminists-4c184394662f) (2020)
 
-## tecnologie
+### tecnologie
 
 - [Tecnologie per una nuova convivialità](https://www.giardino-punk.it/due-libri-tecnologie-per-una-nuova-convivialita/) (giardino punk, 2024)
 - [RSS è il feed di cui abbiamo veramente bisogno](https://www.giardino-punk.it/rss-feed-storia-e-politica/) (giardino punk, 2023)
@@ -48,6 +62,6 @@ permalink: /essay/
 - [Creator economy contro la teoria del plusvalore](https://www.giardino-punk.it/tuffarsi-nella-creator-economy-contro-la-teoria-del-plusvalore/) (giardino punk, 2021)
 - [La lezione del floppy disk. Tutto quello che un’icona può insegnarci per fare pace con la nostra obsolescenza](https://giardino-punk.medium.com/la-lezione-del-floppy-disk-3c1730e5a9c4) (2021)
 
-## altro
+### altro
 
 - [La vita è un ballo in maschera: interazionismo simbolico e prospettiva drammaturgica](https://verbose-six.vercel.app/posts/la-vita-e-un-ballo-in-maschera/) (2024)

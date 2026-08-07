@@ -1,7 +1,7 @@
 ---
 title: Tommasino
 date: 2026-07-31
-description: "Un racconto senza a capi sul prompt: Progettati per fallire"
+description: Un racconto senza a capi sul prompt "Progettati per fallire"
 category: finzioni
 pin: false
 ---
