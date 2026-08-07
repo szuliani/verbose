@@ -4,7 +4,7 @@ date: 2020-10-15
 description: Un racconto per i Germogli della rivista Tropismi (offline)
 category: finzioni
 image: "assets/imgs/le-luci-della-citta.png"
-pin: true
+pin: false
 ---
 
 *Le luci della città se le guardi a lungo sfarfallano.* Corso Buenos Aires di notte che gli sfilava intorno leggermente pallido come un mattino nebbioso. L’insegna rossa del teatro, quelle giallo-dorate degli alberghi, il verdolino intermittente dei cartelloni pubblicitari a venti metri d’altezza sopra piazza Argentina, che per vederli dovevi accartocciare la nuca come una fisarmonica – come quando, ma eri da un’altra parte, alzavi la testa per vedere le stelle.

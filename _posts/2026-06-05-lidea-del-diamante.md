@@ -1,7 +1,7 @@
 ---
 title: L'idea del diamante
 date: 2026-06-05
-description: "Un racconto per Il Nido del Gufi sul prompt: *Le ceneri di un mondo*"
+description: "Un racconto per Il Nido del Gufi sul prompt: Le ceneri di un mondo"
 category: finzioni
 pin: false
 ---
