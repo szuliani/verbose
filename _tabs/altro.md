@@ -8,14 +8,14 @@ permalink: /pubblicati/
 ## Racconti
 
 - 📄 [Santa Lucia + La Metamorfosi](https://scartafaccio.net/weird-x-mas-2025-2/) (con Ema, in Weird X-Mas di Scartafaccio, 2025)
-- 📄 [Disordine, Forze del](https://www.instagram.com/unafanzinestorta/) (Stort Zine vol #1, 2025) / [Open Access](/posts/disordine-forze-del/)
+- 📄 Disordine, Forze del (Stort Zine vol #1, 2025) / [Open Access](/posts/disordine-forze-del/)
 - 📒 [Arcipelago dei limoni](https://delos.digital/9788825432282/arcipelago-dei-limoni) (Delos Digital, 2025)
 - 📄 [Il lavoro più longevo dei mondi](https://scartafaccio.net/il-lavoro-piu-longevo-dei-mondi-di-stefano-zuliani/) (Scartafaccio, 2024)
 - 📄 [Prove genitali](https://www.zulianis.eu/prodotto/prove-genitali/) (giardino punk, 2024)
 - 📄 [Il contesto](https://www.giardino-punk.it/il-contesto/) (giardino punk, 2022)
 - 📄 Le luci della città (Tropismi, 2020) / [Backup](/posts/le-luci-della-citta/)
 - 📕 [Il consulente](https://www.zulianis.eu/prodotto/il-consulente/) (autopubblicato, 2019)
-- 📘 [Blues di Orlando]() (autopubblicato, 2017)
+- 📘 [Blues di Orlando](https://www.zulianis.eu/prodotto/blues-di-orlando/) (autopubblicato, 2017)
 
 ## Essay
 
