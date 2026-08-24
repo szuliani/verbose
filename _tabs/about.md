@@ -22,3 +22,5 @@ Alcuni fatti su di me:
 Chiacchiero volentieri [nel fediverso](https://livellosegreto.it/@zs)
 
 C'è addirittura un social dove [pubblico le foto](https://pixelfed.uno/mycena)
+
+Qui i miei [blog amici](/posts/blog-amici/)
