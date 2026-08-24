@@ -46,6 +46,9 @@ layout: default
   {% endfor %}
 {% endif %}
 
+<h1>Benvenut*!</h1>
+<p>Questo è <strong>Verbose</strong>, lo <em>slow-web-log</em> di <a href="/about/">Stefano Zuliani</a>. Qui trovi alcuni racconti che ho scritto e alcuni pensieri sulla scrittura, la politica e le cose in generale.</p>
+
 <div id="post-list" class="flex-grow-1 px-xl-1">
   {% for post in posts %}
     <article class="card-wrapper card">
@@ -120,7 +123,7 @@ layout: default
 
               {% if post.pin %}
                 <div class="pin ms-1">
-                  <i class="fas fa-thumbtack fa-fw"></i>
+                  <!-- <i class="fas fa-thumbtack fa-fw"></i> -->
                   <span>{{ site.data.locales[lang].post.pin_prompt }}</span>
                 </div>
               {% endif %}

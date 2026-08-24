@@ -23,8 +23,8 @@ search:
   no_results: Oops! La ricerca non ha fornito risultati.
 
 panel:
-  lastmod: Aggiornati di recente
-  trending_tags: Tag più cliccati
+  lastmod: Recenti
+  trending_tags: Tag
   toc: Contenuti
 
 copyright:

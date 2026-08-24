@@ -6,11 +6,12 @@ title: About
 permalink: /about/
 ---
 
-Ciao, sono Stefano Zuliani, detto anche il verboso (qualsiasi pronome è appropriato). Questo è il mio **slow-web-log**, dove pubblico qualche racconto e qualche pezzo di [digital garden](https://maggieappleton.com/nontechnical-gardening).
+Ciao, sono Stefano Zuliani, detto anche il verboso. Questo è il mio **slow-web-log**, dove pubblico qualche racconto e qualche pezzo di [digital garden](https://maggieappleton.com/nontechnical-gardening).
 
 Alcuni fatti su di me:
 
 - vivo a Torino
+- come si vede dall'immagine, sono un pirata non binary: qualsiasi pronome per me è appropriato se ho già preso un caffè, altrimenti meglio non chiamarmi
 - [di lavoro](https://zulianis.eu) scrivo e a volte faccio siti web
 - studio sociologia, sto nel mezzo di una tesi di Actor-Network Theory sulle comunità energetiche rinnovabili
 - mi piace veramente tanto parlare di politica

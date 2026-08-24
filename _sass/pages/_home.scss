@@ -55,7 +55,8 @@
         @extend %text-clip;
 
         color: var(--heading-color) !important;
-        font-size: 1.35rem;
+        font-size: 1.47rem;
+        margin-bottom: 1rem !important;
       }
 
       %muted {
