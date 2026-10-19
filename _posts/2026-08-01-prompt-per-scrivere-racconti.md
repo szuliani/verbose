@@ -5,7 +5,7 @@ description: Da dove iniziare a scrivere un racconto? Ecco i miei prompt preferi
 tags:
   - scrittura
 category: essay
-pin: true
+pin: false
 ---
 
 Spesso quando mi metto a scrivere so esattamente di cosa voglio parlare, anzi mi metto a scrivere *proprio perchè* ho qualcosa di molto preciso di cui parlare. Queste sono le mie volte preferite, ma è pur vero che sono i testi che faccio più fatica a finire, perchè mi sembra di non avere mai esaurito l'argomento quanto vorrei.

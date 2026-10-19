@@ -46,8 +46,7 @@ layout: default
   {% endfor %}
 {% endif %}
 
-<h1>Benvenut*!</h1>
-<p>Questo è <strong>Verbose</strong>, lo <em>slow-web-log</em> di <a href="/about/">Stefano Zuliani</a>. Qui trovi alcuni racconti che ho scritto e alcuni pensieri sulla scrittura, la politica e le cose in generale.</p>
+{{page.content}}
 
 <div id="post-list" class="flex-grow-1 px-xl-1">
   {% for post in posts %}
@@ -141,3 +140,4 @@ layout: default
 {% if paginator.total_pages > 1 %}
   {% include post-paginator.html %}
 {% endif %}
+
