@@ -2,7 +2,7 @@
 title: Oddiseo e gli altri
 date: 2023-08-24
 description: Racconto che parla di viaggio e di anarchia
-category: finzioni
+categories: [storie, finzioni]
 tags: anarchia
 pin: falsa
 image: "assets/imgs/odisseo-cover.webp"

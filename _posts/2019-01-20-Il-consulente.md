@@ -3,7 +3,7 @@ title: Il consulente
 date: 2019-01-20
 description: Racconto del 2019, corretto e autopubblicato.
 image: "/assets/imgs/Il-consulente.webp"
-category: finzioni
+categories: [storie, finzioni]
 pin: false
 ---
 In qualche modo l’ingegner Brenzini ce l'ha fatta. Questo affabile consulente finanziario milanese è giunto al vertice delle sue ambizioni: adesso ha uno studio, un segretario accorto, una bella moglie e perfino un'amante. La vita perfetta che immaginava si è trasformata in routine, un trascorrere di giornate sempre uguali, che Brenzini attraversa con calma e dedizione. Eppure, a fare da contraltare al suo garbo, sembra che tutti gli altri fremano. Tutti desiderano di più, sempre di più.

@@ -2,7 +2,7 @@
 title: "Disordine, Forze del"
 description: Un racconto non serio per "Disordine", il primo numero di Stortә
 date: 2025-05-18
-category: finzioni
+categories: [storie, finzioni]
 tags: anarchia
 pin: false
 image: "/assets/imgs/disordine.webp"

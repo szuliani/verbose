@@ -3,7 +3,7 @@ title: Blues di Orlando (remastered)
 date: 2026-08-03
 description: Racconto lungo del 2017, riveduto, corretto e autopubblicato.
 image: "/assets/imgs/Blues-di-Orlando.webp"
-category: finzioni
+categories: [storie, finzioni]
 pin: true
 ---
 C'è una metropoli che sorge su un'isola artificiale, e c'è un quartiere, Orlando, in cui succedono cose incredibili. C'è un giovane romanziere che è solo e ha perso il suo savoir-faire con le donne, e un pianista blues che ha strane intuizioni e sogna cose che si avverano.

@@ -2,7 +2,7 @@
 title: "Protendersi"
 description: Una pagina dal quaderno del laboratorio Storie di un corpo
 date: 2025-04-08
-category: finzioni
+categories: [storie, finzioni]
 image: "/assets/imgs/protendersi.webp"
 ---
 

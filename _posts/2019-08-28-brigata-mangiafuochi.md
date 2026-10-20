@@ -1,7 +1,7 @@
 ---
 Title: Brigata Mangiafuochi
 date: 2019-08-28
-category: finzioni
+categories: [storie, finzioni]
 tags: anarchia
 description: Breve sovversione narrativa e politica
 image: "assets/imgs/brigata-mangiafuochi.webp"

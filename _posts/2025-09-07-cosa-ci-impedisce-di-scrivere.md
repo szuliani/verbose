@@ -4,7 +4,7 @@ date: 2025-09-07
 description: Una newsletter sulla scrittura come pratica e come gesto
 tags:
   - scrittura
-category: newsletter
+category: essay
 pin: false
 ---
 Ciao, sono Stefano, Mycena è il mio giardino digitale[^1], e questa newsletter parla di *ripartenza*.
