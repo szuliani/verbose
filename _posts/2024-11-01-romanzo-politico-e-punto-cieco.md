@@ -5,7 +5,7 @@ description: Cos'è il romanzo politico, quali sono i suoi obiettivi e gli strum
 tags:
   - scrittura
 category: essay
-image: "/assets/imgs/romanzo-politico.png"
+image: "/assets/imgs/romanzo-politico.webp"
 pin: true
 ---
 *A cosa serve scrivere narrativa? Se è vero che le storie sono ormai ovunque, nell’informazione, nella pubblicità, nell’educazione, allora perché scegliere la forma romanzo? È possibile immaginare una narrativa votata al cambiamento sociale, e se sì, che caratteristiche dovrebbe avere?*

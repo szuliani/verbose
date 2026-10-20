@@ -4,7 +4,7 @@ date: 2019-08-28
 category: finzioni
 tags: anarchia
 description: Breve sovversione narrativa e politica
-image: "assets/imgs/brigata-mangiafuochi.png"
+image: "assets/imgs/brigata-mangiafuochi.webp"
 ---
 
 Bisogna far presto, prima che la candela si spenga. Fuori piove, le gocce fredde picchiano contro il tetto di lamiera della baracca. Dentro, nascosti nel buio umido, tutti si abbracciano le ginocchia e piagnucolano per qualcuno.

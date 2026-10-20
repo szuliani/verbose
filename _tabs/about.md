@@ -11,7 +11,7 @@ Ciao, sono Stefano Zuliani, detto anche il verboso. Questo è il mio **slow-web-
 Alcuni fatti su di me:
 
 - vivo a Torino
-- come si vede dall'immagine, sono un pirata non binary: qualsiasi pronome per me è appropriato se ho già preso un caffè, altrimenti meglio non chiamarmi
+- come si vede dall'immagine, sono un pirata non binary: qualsiasi pronome per me è appropriato, ma solo ammesso che io abbia già preso un caffè, altrimenti meglio non chiamarmi
 - invento storie, soprattutto utopie, e in generale scrivo tanto tanto tanto
 - [di lavoro](https://zulianis.eu) comunico e a volte faccio siti web
 - sono sociologo, la cosa più interessante che ho fatto nella vita (mia incontrovertibile opinione) è una tesi di Actor-Network Theory sulle comunità energetiche rinnovabili

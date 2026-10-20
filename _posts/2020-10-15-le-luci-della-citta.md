@@ -3,7 +3,7 @@ title: "La luci della città"
 date: 2020-10-15
 description: Un racconto per i Germogli della rivista Tropismi (offline)
 category: finzioni
-image: "assets/imgs/le-luci-della-citta.png"
+image: "assets/imgs/le-luci-della-citta.webp"
 pin: false
 ---
 

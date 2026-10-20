@@ -3,7 +3,7 @@ title: "Cromorama: il colore non esiste"
 date: 2023-08-03
 category: essay
 description: "Dal libro di Riccardo Falcinelli, una riflessione su colore, cultura e design"
-image: "assets/imgs/cromorama.png"
+image: "assets/imgs/cromorama.webp"
 tag: libri
 pin: false
 ---

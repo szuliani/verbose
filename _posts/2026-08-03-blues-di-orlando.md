@@ -2,7 +2,7 @@
 title: Blues di Orlando (remastered)
 date: 2026-08-03
 description: Racconto lungo del 2017, riveduto, corretto e autopubblicato.
-image: "/assets/imgs/Blues-di-Orlando.png"
+image: "/assets/imgs/Blues-di-Orlando.webp"
 category: finzioni
 pin: true
 ---

@@ -5,7 +5,7 @@ description: "Orrore e meraviglia: il racconto fantastico e come scriverlo secon
 tags:
   - scrittura
 category: essay
-image: "/assets/imgs/lovecraft.jpeg"
+image: "/assets/imgs/lovecraft.webp"
 pin: true
 ---
 Uno degli aspetti più straordinari di H.P. Lovecraft, oltre alle sue storie, è la sua umiltà.

@@ -5,7 +5,7 @@ description: Racconto che parla di viaggio e di anarchia
 category: finzioni
 tags: anarchia
 pin: falsa
-image: "assets/imgs/odisseo-cover.jpg"
+image: "assets/imgs/odisseo-cover.webp"
 
 ---
 > *Là tutto non è che ordine e beltà,*  

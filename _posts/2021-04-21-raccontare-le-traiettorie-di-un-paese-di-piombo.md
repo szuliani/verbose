@@ -4,7 +4,7 @@ date: 2021-04-21
 description: "Quattro romanzi e un film sulla violenza politica nell’Italia degli anni Settanta"
 categories: essay
 tags: libri
-image: "assets/imgs/Piazza-Fontana.jpg"
+image: "assets/imgs/Piazza-Fontana.webp"
 pin: false
 ---
 

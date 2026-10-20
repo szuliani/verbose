@@ -3,6 +3,7 @@ title: "Protendersi"
 description: Una pagina dal quaderno del laboratorio Storie di un corpo
 date: 2025-04-08
 category: finzioni
+image: "/assets/imgs/protendersi.webp"
 ---
 
 Drupal lavora ogni giorno in un ufficio pubblico della circoscrizione 7. Niente di speciale, prende appuntamenti, riempie moduli precompilati; lo fa da quando ha 19 anni, e alla fine il mondo ha un po’ tutto quella forma lì, la vita è uno sport che si gioca nel mezzo tra la sua scrivania e quella del giovane ragioniere con cui condivide l’ufficio.

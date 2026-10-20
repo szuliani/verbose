@@ -5,6 +5,7 @@ date: 2025-05-18
 category: finzioni
 tags: anarchia
 pin: false
+image: "/assets/imgs/disordine.webp"
 ---
 
 *Questo è un racconto che ho scritto per Stortə Zine n. 1: Disordine. La zine può essere acquistata all’associazione L’Intreccio Viola di Torino o attraverso la [pagina Instagram di Stortə Zine](https://www.instagram.com/unafanzinestorta/). Questo è il testo integrale di Disordine, Forze del.*

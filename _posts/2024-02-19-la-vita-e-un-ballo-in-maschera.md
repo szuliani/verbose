@@ -4,7 +4,7 @@ date: 2024-02-19
 description: "In breve: l'interazionismo simbolico e la prospettiva drammaturgica di Erving Goffman in sociologia"
 categories: essay
 tags: sociologia
-image: "assets/imgs/la-vita-e-un-ballo-in-maschera.jpg"
+image: "assets/imgs/la-vita-e-un-ballo-in-maschera.webp"
 ---
 
 > C’è una maschera per la famiglia, una per la società, una per il lavoro. E quando stai solo, resti nessuno.

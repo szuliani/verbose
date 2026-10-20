@@ -2,7 +2,7 @@
 title: Il consulente
 date: 2019-01-20
 description: Racconto del 2019, corretto e autopubblicato.
-image: "/assets/imgs/Il-consulente.png"
+image: "/assets/imgs/Il-consulente.webp"
 category: finzioni
 pin: false
 ---
