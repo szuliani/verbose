@@ -36,7 +36,6 @@ github:
 
 twitter:
   username: user1 # change to your Twitter username
-
 #twitter:
   #username: twitter_username # change to your Twitter username
 
@@ -52,8 +51,8 @@ social:
     #- https://twitter.com/username # change to your Twitter homepage
     - https://github.com/szuliani # change to your GitHub homepage
     # Uncomment below to add more social links
-    - https://www.facebook.com/stefanozuliani.digital
-    - https://www.linkedin.com/in/s-zuliani/
+    # - https://www.facebook.com/stefanozuliani.digital
+    # - https://www.linkedin.com/in/s-zuliani/
     - https://livellosegreto.it/@zs
 
 
@@ -158,6 +157,7 @@ exclude:
   - purgecss.js
   - "*.config.js"
   - "package*.json"
+  - vercel.json
 
 jekyll-archives:
   enabled: [categories, tags]
